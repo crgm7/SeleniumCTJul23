@@ -13,7 +13,7 @@ public class WrapClass {
 		
 	}
 	public static String getText(WebElement webE) {
-		return webE.getText();
-
+		return webE.getText();     
+ //comentario
 	}
 }
